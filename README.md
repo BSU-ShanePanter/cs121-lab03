@@ -2,6 +2,8 @@
 ## Getting Started
 [Lab Introduction Video](https://youtu.be/ia9fwrAmMHs)  
 
+[![asciicast](https://asciinema.org/a/s1WK1Z95XF4BVpnr8hPSgM5Rj.svg)](https://asciinema.org/a/s1WK1Z95XF4BVpnr8hPSgM5Rj)
+
 - Please clone the [Mod03 Code Examples](https://github.com/lhindman/cs121-mod03-examples.git).  
 - Please watch the [Coding Style Review and Activity 1 Walkthough Video](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBf4nsQTeIDirE8c33MhGtX).  
 
