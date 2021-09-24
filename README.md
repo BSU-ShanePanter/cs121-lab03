@@ -2,6 +2,8 @@
 ## Getting Started
 [Lab Introduction Video](https://youtu.be/ia9fwrAmMHs)  
 
+UPDATED
+
 <script id="asciicast-s1WK1Z95XF4BVpnr8hPSgM5Rj" src="https://asciinema.org/a/s1WK1Z95XF4BVpnr8hPSgM5Rj.js" async></script>
 
 - Please clone the [Mod03 Code Examples](https://github.com/lhindman/cs121-mod03-examples.git).  
